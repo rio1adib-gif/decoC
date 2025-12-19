@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.login-card {
+    width: 380px;
+    border-radius: 10px;
+}
+
+.login-card h4 {
+    color: #0d6efd;
+}
